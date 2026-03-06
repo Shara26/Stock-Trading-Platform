@@ -1,0 +1,17 @@
+# Zerodha Clone
+
+A frontend clone of the Zerodha trading platform.
+
+## Features
+- Stock dashboard UI
+- Watchlist
+- Trading interface simulation
+- Responsive design
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Status
+🚧 Currently under development
