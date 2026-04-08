@@ -2,7 +2,7 @@
 
 A frontend clone of the Zerodha trading platform.
 
-## Features
+## Features small update
 - Stock dashboard UI
 - Watchlist
 - Trading interface simulation
