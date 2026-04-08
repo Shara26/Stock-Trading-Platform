@@ -1,4 +1,4 @@
-# Zerodha Clone
+# Stock-Trading-Platform
 
 A frontend clone of the Zerodha trading platform.
 
