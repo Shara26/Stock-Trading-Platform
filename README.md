@@ -12,6 +12,7 @@ A frontend clone of the Zerodha trading platform.
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## Status
 🚧 Currently under development
